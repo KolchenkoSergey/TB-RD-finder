@@ -32,11 +32,11 @@ python ML_RD.py -f filename -i input_folder -o output_folder -m mode
 **Examples**:<br>
 Starting from .bam file:<br>
 ```
-python ML_RD.py -f example -m bam
+python ML_RD.py -f example -i example/ -m bam
 
 ```
 Starting from .fastq.gz files:<br>
 ```
-python ML_RD.py -f example -m fastq
+python ML_RD.py -f example -i example/ -m fastq
 ```
 
