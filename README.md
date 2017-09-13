@@ -1,5 +1,5 @@
 # TB-ML-RD
-Machine learning approach for *in silico* RD analysis in WGS samples of *M.tuberculosis*
+Machine learning approach for *in silico* RD analysis of WGS samples of *M.tuberculosis*
 ## Files 
 **ML_RD.py**: the standart pipeline for prediction of RD deletions and lineage identification. <br>
 **model_cat.pickle**: the pretrained model of CatBoost classifier (CatBoost technology developed by YANDEX LLC) used for RD classiication <br>
